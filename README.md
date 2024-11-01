@@ -26,7 +26,7 @@ Here is an image of what we want once we are finished:
 
 ...and here is a tree view of our component parent-child structure:
 
-```txt
+```txt   
 └── App
     ├── NavBar
     ├── Home

@@ -19,3 +19,18 @@ test("displays the URL of a Linkedin link passed down as a prop", () => {
     screen.queryByText("https://www.linkedin.com/in/liza/")
   ).toBeInTheDocument();
 });
+
+// import React from 'react';
+
+// function Links({ github, linkedin }) {
+//   return (
+//     <div>
+//       <h3>Links</h3>
+//       <a href={github}>{github}</a>
+//       <a href={linkedin}>{linkedin}</a>
+//     </div>
+//   );
+// }
+
+// export default
+//  Links;
